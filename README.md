@@ -49,6 +49,3 @@ The spell checker project architecture can be divided into the following compone
 
 - This project is inspired by Peter Norvig's classic spell checker algorithm.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
